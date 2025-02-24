@@ -1,4 +1,4 @@
-# VIKASH-GIT-PROJECT
+# Procedure 6
 #include <stdio.h>
 int main() {
 
